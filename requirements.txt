@@ -20,8 +20,5 @@ statsmodels==0.11.0
 xlrd==2.0.1
 openpyxl==3.0.7
 plotly==5.3.1
-dash==1.13.3
-Jupyterlab
+dash==1.21.0
 jupyter-dash
-jupyterlab "ipywidgets>=7.5
-jupyter labextension install jupyterlab-plotlyQ@4.8.2
