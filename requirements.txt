@@ -23,6 +23,5 @@ plotly==5.3.1
 dash==1.13.3
 Jupyterlab
 jupyter-dash
-jupyter lab build
 jupyterlab "ipywidgets>=7.5
 jupyter labextension install jupyterlab-plotlyQ@4.8.2
